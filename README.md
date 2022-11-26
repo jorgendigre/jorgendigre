@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Flask REST APIS courses
+- 🔭 I’m currently working on Flask REST API projects
 - 🌱 I’m currently learning backend engineering/development
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with backend development(FLASK)
